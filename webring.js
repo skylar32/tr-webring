@@ -1,5 +1,5 @@
 /* Modified from https://css-tricks.com/how-you-might-build-a-modern-day-webring/ */
-const DATA_FOR_WEBRING = `https://gist.githubusercontent.com/skylar32/a88ca7013a6dee68a165d323844c12cb/raw`;
+const DATA_FOR_WEBRING = `https://raw.githubusercontent.com/skylar32/tr-webring/main/members.json`;
 
 const template = document.createElement("template");
 template.innerHTML = `
